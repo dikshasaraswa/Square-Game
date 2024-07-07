@@ -28,6 +28,11 @@ html,body{
     margin-top: 10px;
     margin-left: 10px;
 }
-/* #sq3{
-    background-color: beige;
-} */
+#cursor{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(165, 42, 157);
+    border: 2px solid black;
+    position: absolute;
+}
